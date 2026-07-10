@@ -7,3 +7,4 @@ A simple project to practice Git and GitHub.
  Git Practice
 - GitHub Practice
 - Open Source Workflow
+- Branching Practice
